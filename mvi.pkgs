@@ -19,3 +19,4 @@ TRIBdrv-i86pc-fipe
 TRIBdrv-net-e1000g
 TRIBsys-boot-real-mode
 TRIBsys-file-system-zfs
+TRIBinstall-beadm
